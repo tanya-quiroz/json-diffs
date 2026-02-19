@@ -13,7 +13,7 @@
       "--border-radius-xs": {
         "type": "borderRadius",
         "description": "",
-        "value": "1px"
+        "value": "90px"
       },
       "--border-radius-s": {
         "type": "borderRadius",
